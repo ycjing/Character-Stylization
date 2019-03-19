@@ -15,7 +15,7 @@
 :white_check_mark:   [**Rewrite: Neural Style Transfer For Chinese Fonts**] [[Project]](https://github.com/kaonashi-tyc/Rewrite)
 
 
-:white_check_mark:   [**Multi-content gan for few-shot font style transfer,**] [[Paper]](https://arxiv.org/pdf/1712.00516.pdf)  *(CVPR 2018)*  
+:white_check_mark:   [**Multi-content gan for few-shot font style transfer**] [[Paper]](https://arxiv.org/pdf/1712.00516.pdf)  *(CVPR 2018)*  
 
 ## Comment
 
